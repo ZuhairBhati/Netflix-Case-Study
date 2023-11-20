@@ -25,7 +25,7 @@ As one of the leading streaming platforms globally, Netflix has revolutionized h
 
 ## Data Preparation
 
-The data used in this case study is sourced from Kaggle, a popular platform for data science and machine learning enthusiasts. The dataset, titled “Netflix Movies and TV Shows,” is publicly available on Kaggle and provides valuable information about the movies and TV shows on the Netflix streaming platform.
+The data used in this case study is sourced from Kaggle, a popular platform for data science and machine learning enthusiasts. The dataset, titled [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows), is publicly available on Kaggle and provides valuable information about the movies and TV shows on the Netflix streaming platform.
 
 ### Dataset Overview
 
