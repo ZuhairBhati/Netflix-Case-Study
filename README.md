@@ -18,7 +18,6 @@ Netflix has experienced remarkable growth and expanded its presence to become a 
 2. [Data Preparation](#data-preparation)
 3. [Exploratory Data Analysis](#exploratory-data-analysis)
 4. [Conclusion](#conclusion)
-5. [Official Documentation and Resources](#official-documentation-and-resources)
    
 ## Introduction
 
